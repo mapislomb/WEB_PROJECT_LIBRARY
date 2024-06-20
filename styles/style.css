@@ -242,35 +242,33 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-
+  position: absolute;
   gap: 10px;
 }
 
 .person_name_feynman {
- left: 319px;
- top:-30px;
-
+  left: 319px;
+  top: -30px;
+}
 
 .person_name_burbidge {
   top: 96px;
-  left: 25px;
+  right: 125px;
 }
 
 .person_name_cannon {
- right: 216px;
- bottom: 18px;
+  right: 216px;
+  bottom: 18px;
 }
 
 .person_name_mitchell {
- bottom: 82px;
- left: 142px;
+  bottom: 82px;
+  left: 142px;
 }
 
-
-
 .person_name_tarter {
- top: 79px;
- left: 159px:
+  top: 79px;
+  left: 159px;
 }
 
 .person__image {
@@ -290,7 +288,6 @@
 }
 
 .person__caption {
-  text-align: center;
   font-size: 14px;
   margin: 0;
 }
