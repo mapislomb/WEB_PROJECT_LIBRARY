@@ -6,3 +6,7 @@ La página web de la Biblioteca Triple Peaks es el segundo proyecto en el progra
 
 - HTML5 semántico
 - Flexbox
+
+## Estructura de carpetas
+
+- Imagenes se encuentran las fotos usadas en el proyecto tanto en png y svg
