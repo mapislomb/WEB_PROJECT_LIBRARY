@@ -344,6 +344,7 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
+  font-family: Arial, sans-serif;
   color: #ffffff;
   padding: 60px 80px;
 }
@@ -351,15 +352,19 @@
 .footer__columns {
   display: flex;
   list-style: none;
+  padding: 60px 80px;
 }
 
 .footer__column_content_hours {
   list-style-type: none;
   margin-left: auto;
+  top: 20px;
+  bottom: 16px;
 }
 
 .footer__column_content_social {
   margin-left: 80px;
+  top: 60px;
 }
 
 .footer__logo {
@@ -382,6 +387,8 @@
 
 .footer__list_item {
   list-style-type: none;
+  top: 20px;
+  bottom: 16px;
 }
 
 .footer__list-item {
@@ -402,5 +409,5 @@
 }
 
 .footer__copyright {
-  margin-top: 100px°;
+  margin-top: 100px;
 }
