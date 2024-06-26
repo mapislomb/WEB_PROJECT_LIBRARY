@@ -314,6 +314,7 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: space-evenly;
+
   column-gap: 40px;
 }
 
