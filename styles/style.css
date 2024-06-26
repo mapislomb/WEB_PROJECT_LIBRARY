@@ -320,7 +320,6 @@
   flex-wrap: wrap;
   max-width: 220px;
   gap: 40px;
-  flex: row;
   align-content: center;
 }
 
